@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Advanced Custom Fields: Wordpress Form Manager Plugin
+Plugin Name: Advanced Custom Fields: Wordpress Form Manager Field
 Plugin URI: PLUGIN_URL
 Description: Show available forms list from Wordpress Form Manager plugin
 Version: 1.0.0
